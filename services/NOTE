@@ -1,0 +1,39 @@
+session=>use for authentication
+installation=>npm i express-session
+
+middilwares=>authentication(redendent) paranj kodukan vendi 
+2 type we can use=> application specific middilwares
+=> router level middilwares => (ethenkilum oru req vendi)
+
+advantage of middilwares=> req and res access cheyyan pattum
+
+jwt=> json web tokens(for authentication)
+npm i jsonwebtoken=> for installation
+2 part
+1.token generation
+2.token validation
+
+
+
+mongo db=> structureless database(non sql)
+
+sql=>data store in table format
+
+
+db connection=>
+
+. install  mangoose=> npm i mangoose
+
+solving asyn event using promise
+
+promise=>  
+
+
+cors=>cross orgin resource sharing
+npm in cors
+
+credentials=>authenticate ayit ulla karym server->clint venam enkil use credentials
+
+
+
+
